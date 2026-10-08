@@ -1,2 +1,3 @@
-# Sistema-de-OS-S-EMPRESARIAL-JAMAICA
-Sistema desenvolvido em Python para gestão de Ordens de Serviço (OS) empresariais. Permite cadastrar, acompanhar e organizar manutenções, registrar responsáveis, horários e atividades realizadas, além de exportar dados para Excel, garantindo maior controle, produtividade e rastreabilidade dos processos.
+# Business OS Management System JAMAICA
+
+Python-based application designed for business Order of Service (OS) management. It enables users to create, track, and organize maintenance tasks, record technicians, schedules, and service details, while offering Excel export features to improve control, productivity, and process traceability.
